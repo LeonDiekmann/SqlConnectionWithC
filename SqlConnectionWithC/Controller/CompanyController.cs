@@ -37,6 +37,7 @@ namespace SqlConnectionWithC.Controller
             string name = Console.ReadLine();
             Console.Clear();
             CompanyRepository.AddOrUpdate(id, name);
+            Console.WriteLine("Stored procedure executed!");
         }
         public static void ReadById()
         {

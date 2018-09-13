@@ -21,7 +21,7 @@ namespace SqlConnectionWithC.Controller
                 Console.WriteLine("Post Code: " + item.PostCode);
                 Console.WriteLine("City: " + item.City);
                 Console.WriteLine("Street: " + item.Street);
-                Console.WriteLine("HouseNumber" + item.HouseNumber);
+                Console.WriteLine("HouseNumber: " + item.HouseNumber);
                 Console.WriteLine("Country: " + item.Country);
                 Console.WriteLine("");
             }

@@ -1,0 +1,10 @@
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\bin\Debug\SqlConnectionWithC.exe.config
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\bin\Debug\SqlConnectionWithC.exe
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\bin\Debug\SqlConnectionWithC.pdb
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\obj\Debug\SqlConnectionWithC.csprojAssemblyReference.cache
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\obj\Debug\SqlConnectionWithC.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\obj\Debug\SqlConnectionWithC.exe
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\obj\Debug\SqlConnectionWithC.pdb
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\bin\Debug\Dapper.dll
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\bin\Debug\Dapper.xml
+C:\Dev\Projects\SqlConnectionWithC\SqlConnectionWithC\obj\Debug\SqlConnectionWithC.csproj.CopyComplete
